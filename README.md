@@ -1,3 +1,4 @@
-# Unix workbench: guessing game
-* This Make file was ran at: $(shell date +%Y-%m-%d:%H:%M:%S)\n
-* There were $(shell wc -l < guessinggame.sh) lines in guessinggame.sh\n
+# Coursera: The Unix Workbench
+## Peer-graded Assignment: Bash, Make, Git, and GitHub
+* README.md created at: 2019-07-28 14:27:37
+* Lines of code in guessinggame.sh: 24
